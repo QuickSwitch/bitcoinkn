@@ -9,7 +9,7 @@ name: Bitcoin Knowledge Podcast
 description: Interviews with the top people in the Bitcoin world.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/bitcoin-knowledge-podcast-avatar.jpg
+avatar: bitcoinkn/images/bitcoin-knowledge-podcast-avatar.jpg
 
 #
 # Flags below are optional
@@ -55,7 +55,7 @@ baseurl: "http://sunnankar.github.io/bitcoinkn"
 podcastSite: http://www.bitcoin.kn
 
 # The cover image for the podcast, will show in search results in iTunes
-podcastCoverImg: /images/bitcoin-knowledge-podcast-1600.jpg
+podcastCoverImg: bitcoinkn/images/bitcoin-knowledge-podcast-1600.jpg
 
 # The name of your podcast
 podcastTitle: Bitcoin Knowledge Podcast
