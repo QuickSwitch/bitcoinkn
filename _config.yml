@@ -26,13 +26,13 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: TraceMayer
+  twitter: bitcoinkn
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: runtogoldtv
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: bitcoinknowledge
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-144215-15
@@ -102,8 +102,8 @@ exclude: ['readme.md']
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rogue
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
