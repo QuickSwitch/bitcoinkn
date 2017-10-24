@@ -103,7 +103,7 @@ exclude: ['readme.md']
 #
 
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
